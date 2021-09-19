@@ -1,0 +1,6 @@
+﻿  doRC4.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 264 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RC4.vcxproj -> C:\Users\LAN HUONG\source\repos\RC4\Release\RC4.exe
